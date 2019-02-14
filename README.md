@@ -1,5 +1,7 @@
 The Goal of the Clicky-Game is to click a tile with an image on it to build up a score without clicking on the same tile twice. If you click all 12 images without double clicking one you win, if not you restart. Good luck to you
 
+live app here : https://shrouded-lowlands-88157.herokuapp.com/
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
