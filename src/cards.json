@@ -1,0 +1,85 @@
+[
+    {
+        "id": 1,
+        "name": "Goku",
+        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/intermediary/f/3eb70ccc-e7ad-4e1a-87fa-f97df9ef1c52/daq5wma-66e0c514-da41-4d21-a901-3b6a6a3ca68e.png/v1/fill/w_682,h_1171,strp/goku_dbs__3_by_saodvd_daq5wma-pre.png",
+        "class": "Saiyan Warrior"
+    },
+
+    {
+        "id": 2,
+        "name": "Vegeta",
+        "image": "https://derrickhercules.files.wordpress.com/2013/08/vegeta_render.png",
+        "class": "Saiyan Prince/Warrior"
+    },
+
+    {
+        "id": 3,
+        "name": "Piccolo",
+        "image": "http://db-z.com/wp-content/uploads/2014/11/piccolo.png",
+        "class": "Namekian Warrior"
+    },
+
+    {
+        "id": 4,
+        "name": "Gohan",
+        "image": "https://i-h1.pinimg.com/564x/1b/c6/aa/1bc6aad54d376031ca1e8f790b4e5691.jpg?b=t",
+        "class": "Half Saiyan Half Human Warrior"
+    },
+
+    {
+        "id": 5,
+        "name": "Trunks",
+        "image": "https://i.pinimg.com/originals/9e/91/fb/9e91fbe02ad9274ec61a6b7ec9d2fadc.png",
+        "class": "Half Saiayan Half Human Warrior"
+    },
+
+    {
+        "id": 6,
+        "name": "Frieza",
+        "image": "https://static.tvtropes.org/pmwiki/pub/images/6a1c3bbd1fa4dbd406150e869c890ef0.png",
+        "class": "Unkown"
+    },
+
+    {
+        "id": 7,
+        "name": "Goku Super Saiyan",
+        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/intermediary/f/22f100a0-9956-4385-b924-87f448eb8667/db1mjne-e5948c35-f4f4-45c1-b5ce-b2192b26e949.png/v1/fill/w_565,h_1414,strp/son_goku_super_saiyajin__c__sangre_y_en_uhd_ahre__by_nekoar_db1mjne-pre.png",
+        "class": "Super Saiyan Warrior"
+    },
+
+    {
+        "id": 8,
+        "name": "Krillin",
+        "image": "https://vignette.wikia.nocookie.net/p__/images/e/e1/Krillin.png/revision/latest?cb=20151023224203&path-prefix=protagonist",
+        "class": "Human Warrior"
+    },
+
+    {
+        "id": 9,
+        "name": "Cell",
+        "image": "https://vignette.wikia.nocookie.net/dragonball/images/a/af/Cell_DK.png/revision/latest?cb=20171207221926&path-prefix=es",
+        "class": "Android"
+    },
+
+    {
+        "id": 10,
+        "name": "Bulma",
+        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/intermediary/f/58870e38-b551-4bfa-8645-9aa20ae0ddc5/dbayy4y-282d879c-7adc-43e8-955e-6bbdb98f2a57.png/v1/fill/w_635,h_1258,strp/bulma_by_wandertof_dbayy4y-pre.png",
+        "class": "Human"
+    },
+
+    {
+        "id": 11,
+        "name": "Master Roshi",
+        "image": "https://vignette.wikia.nocookie.net/poohadventures/images/2/27/Master_Roshi.png/revision/latest?cb=20130704023750",
+        "class": "Master Warrior"
+    },
+
+    {
+        "id": 12,
+        "name": "Gohan Super Saiyan",
+        "image": "https://i.pinimg.com/originals/56/9e/a8/569ea8bb2719e5f812f02c63c6b4fc53.jpg",
+        "class": "Super Saiyan Warrior"
+    }
+]

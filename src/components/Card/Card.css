@@ -1,0 +1,20 @@
+.card {
+    background: #fff;
+  border-radius: 2px;
+  height: 150px;
+  margin: 12px;
+  margin-top: 10px;
+  width: 150px;
+  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+  overflow: hidden;
+  float: left;
+  cursor: pointer;
+  -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: center;
+}
+.card:hover {
+    transform: scale(1.05);
+}
