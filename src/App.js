@@ -30,6 +30,10 @@ class App extends Component {
       });
     } 
   
+    if (this.state.score === 12) {
+      this.setState ({message: "You Win!"});
+      console.log("You win");
+    }
 
     if (this.state.score > this.state.Best) {
       this.setState({ Best: this.state.score });
